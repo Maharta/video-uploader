@@ -1,0 +1,5 @@
+:root { color-scheme: light dark; }
+body { max-width: 640px; margin: 0 auto; padding: 48px 20px; font: 17px/1.6 system-ui, sans-serif; background: #faf6ee; color: #221d15; }
+h1 { line-height: 1.2; } h2 { margin-top: 1.8em; font-size: 1.15em; }
+a { color: #8a6100; }
+@media (prefers-color-scheme: dark) { body { background: #191611; color: #eee6d8; } a { color: #e6b54a; } }
